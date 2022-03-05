@@ -1,0 +1,19 @@
+{
+  "name": "the-office",
+  "version": "0.1.0",
+  "description": "Full stack demo application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austin-Stowe/the-office.git"
+  },
+  "author": "Austin Stowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austin-Stowe/the-office/issues"
+  },
+  "homepage": "https://github.com/Austin-Stowe/the-office#readme"
+}
